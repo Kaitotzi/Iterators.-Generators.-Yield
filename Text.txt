@@ -1,0 +1,5 @@
+iterators-generators-yield/
+├── flat_iterator.py
+├── flat_generator.py
+├── README.md
+└── .gitignore
